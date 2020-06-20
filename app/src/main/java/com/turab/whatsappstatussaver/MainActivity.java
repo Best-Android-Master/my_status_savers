@@ -38,4 +38,5 @@ public class MainActivity extends AppCompatActivity {
         toolbarMainActivity = findViewById(R.id.toolbarMainActivity);
         tabLayout = findViewById(R.id.tabsLayout);
     }
+
 }
